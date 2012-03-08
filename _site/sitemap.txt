@@ -1,10 +1,14 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/categories.html
-http://username.github.com/index.html
-http://username.github.com/pages.html
-http://username.github.com/sitemap.txt
-http://username.github.com/tags.html
+http://ficklecat.github.com/archive.html
+http://ficklecat.github.com/atom.xml
+http://ficklecat.github.com/categories.html
+http://ficklecat.github.com/index.html
+http://ficklecat.github.com/pages/cats/index.html
+http://ficklecat.github.com/pages/dog.html
+http://ficklecat.github.com/pages.html
+http://ficklecat.github.com/sitemap.txt
+http://ficklecat.github.com/tags.html
 
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://ficklecat.github.com/team/sean
+http://ficklecat.github.com/donut-day
+http://ficklecat.github.com/lessons/jekyll-introduction
