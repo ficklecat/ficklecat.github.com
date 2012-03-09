@@ -9,6 +9,7 @@ http://ficklecat.github.com/pages.html
 http://ficklecat.github.com/sitemap.txt
 http://ficklecat.github.com/tags.html
 
+http://ficklecat.github.com/team-merino
 http://ficklecat.github.com/team/sean
 http://ficklecat.github.com/donut-day
 http://ficklecat.github.com/lessons/jekyll-introduction
